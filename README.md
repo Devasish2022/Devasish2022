@@ -1,7 +1,7 @@
 ### Hi there 👋
 this is my first git resporitory
 <br>
-author - reyya devasish
+author - reyya devasish (vitian)
 
 <!--
 **Devasish2022/Devasish2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
