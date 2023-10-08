@@ -1,6 +1,6 @@
 ### Hi there 👋
 this is my first git resporitory
-<dr>
+<br>
 author - reyya devasish
 
 <!--
